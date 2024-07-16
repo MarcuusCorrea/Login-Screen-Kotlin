@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ecrã_de_login</string>
+    <string name="bem_vindo">Bem-vindo</string>
+    <string name="preencha_o_seu_username_e_passowrd_para_continuar">Preencha o seu username e passowrd para continuar</string>
+    <string name="password">Password:</string>
+    <string name="entrar">Entrar</string>
+</resources>
